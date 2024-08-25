@@ -1,0 +1,14 @@
+{
+  "name": "animal-fun-facts",
+  "version": "1.0.0",
+  "description": "fun facts about animals",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
